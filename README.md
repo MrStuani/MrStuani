@@ -24,7 +24,7 @@ dia a dia.
 
 Hoje estou dedicado ao **[gamer-latency-meter](https://github.com/MrStuani/gamer-latency-meter)**,
 um medidor de latência fim a fim para periféricos gamer, com resolução de
-~8 ns, feito com duas placas baratas e um navegador:
+~20 - 40 ns, feito com duas placas baratas e um navegador:
 
 - **CH32V307**: host USB-HID a 8 kHz que converte os relatórios de
   mouse/teclado em bordas GPIO limpas.
